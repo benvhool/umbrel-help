@@ -18,3 +18,5 @@ docker exec -it lnd sh
 Execute the desired command
 ```
 lncli getinfo
+```
+Control-D when you're done to exit the docker container
